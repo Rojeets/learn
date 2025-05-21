@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Elearningplatform/static/css/main.2015f30d.css",
+    "main.js": "/Elearningplatform/static/js/main.7fff2a0f.js",
+    "static/media/profile.png": "/Elearningplatform/static/media/profile.8b3b6db751b37adb1de3.png",
+    "static/media/ML.jpeg": "/Elearningplatform/static/media/ML.1f6bbd433c6ae516c6cd.jpeg",
+    "static/media/DM.jpeg": "/Elearningplatform/static/media/DM.11fc52b263dfb7b29601.jpeg",
+    "static/media/blockchain.jpeg": "/Elearningplatform/static/media/blockchain.d956123f1624f0f3c997.jpeg",
+    "static/media/devops.jpeg": "/Elearningplatform/static/media/devops.34148000e0162a034d3c.jpeg",
+    "index.html": "/Elearningplatform/index.html",
+    "main.2015f30d.css.map": "/Elearningplatform/static/css/main.2015f30d.css.map",
+    "main.7fff2a0f.js.map": "/Elearningplatform/static/js/main.7fff2a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2015f30d.css",
+    "static/js/main.7fff2a0f.js"
+  ]
+}
